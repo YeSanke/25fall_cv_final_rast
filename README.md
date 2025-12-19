@@ -1,5 +1,5 @@
-## RAST: Recurrent Assembler–Student–Teacher Framework
-Hexiao Huang hh3464
+# RAST: Recurrent Assembler–Student–Teacher Framework
+**Hexiao Huang   hh3464** 
 
 RAST is a modular, uncertainty-aware iterative framework for image reconstruction and restoration.
 It aims to improve reconstruction quality while explicitly controlling hallucinations through
@@ -9,7 +9,7 @@ The framework was initially developed for MRI reconstruction and is designed to 
 other image-to-image tasks such as denoising, super-resolution, and inpainting.
 
 
-# Overview
+## Overview
 
 RAST decomposes iterative reconstruction into four loosely coupled components:
 
